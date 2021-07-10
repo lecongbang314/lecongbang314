@@ -15,9 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 📫 How to reach me: 
+   - [Linkedin](https://www.linkedin.com/in/bang-le-brian-8327a9183/)
+   - [Email](mailto:brianleitw@gmail.com)
 
-## 👨‍💻 Techonologies 
 
+## 🚀 My articles 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lecongbang314/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lecongbang314/0" alt="Recent Article 0">
 
 ## &#x1f4c8; GitHub Stats
 
