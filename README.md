@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 💣 I have passionate on keeping the system reliable 
+- 🔮 I am working on my [Medium](https://lecongbang314.medium.com/) blog to share more my knowledge
+- 💌 I am in my beginning to work on Open-source project so I appreciate any advices/recommendation/invitation 🌷
 - 📫 How to reach me: 
    - [Linkedin](https://www.linkedin.com/in/bang-le-brian-8327a9183/)
    - [Email](mailto:brianleitw@gmail.com)
