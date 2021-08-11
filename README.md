@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 
 ## 🚀 My articles 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lecongbang314/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lecongbang314/1" alt="Recent Article 1">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lecongbang314/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lecongbang314/0" alt="Recent Article 0">
 
 ## &#x1f4c8; GitHub Stats
